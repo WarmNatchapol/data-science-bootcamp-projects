@@ -1,6 +1,6 @@
 # Homework Rock Scissors Paper Game by Python
 # Created by Natchapol Laowiwatkasem - 2022-07-22
-# https://colab.research.google.com/drive/1RLESETrV9z8uRD46f4nph1r0RLMIXBYc?usp=sharing
+# Section 1 - https://colab.research.google.com/drive/1RLESETrV9z8uRD46f4nph1r0RLMIXBYc?usp=sharing
 
 import random
 from tabulate import tabulate
